@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-14T22:50:00-03:00",
+  "defaultStatus": "ativo",
+  "default": {
+    "pixKey": "SUA-CHAVE-PIX-AQUI",
+    "supportPhone": "44999999999",
+    "valor": "120,00",
+    "graceDays": 5
+  },
+  "clients": {
+    "store-id-do-cliente": {
+      "nome": "Loja do Cliente",
+      "status": "ativo",
+      "vencimento": "2026-07-14",
+      "valor": "99.90",
+      "pixKey": "SUA-CHAVE-PIX-AQUI",
+      "pixCopyPaste": "",
+      "supportPhone": "44999999999",
+      "mensagem": "Licença ativa."
+    }
+  }
+}
