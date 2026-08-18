@@ -1,8 +1,8 @@
 ﻿Smart Loja Facil updates
 
-Versao atual: 2.3.87
+Versao atual: 2.3.89
 
 Arquivos publicados:
 - latest.json
-- MEU SAPATO_2.3.87_x64_en-US.msi
-- MEU SAPATO_2.3.87_x64_en-US.msi.sig
+- MEU SAPATO_2.3.89_x64_en-US.msi
+- MEU SAPATO_2.3.89_x64_en-US.msi.sig
